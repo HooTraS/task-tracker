@@ -9,3 +9,5 @@ if errorlevel 1 (
 
 :: Запуск скрипта через Git Bash
 bash setup_git_branches.sh
+
+
